@@ -44,7 +44,7 @@ Este projeto é uma **Calculadora de Churrasco** que ajuda a determinar a quanti
 calculadora-churrasco/
 │
 ├────assets
-├────────tela.png
+├────────tela.png          # Tela do projeto
 │
 ├── style.css              # Estilos da aplicação
 │
