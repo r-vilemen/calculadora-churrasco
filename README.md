@@ -20,7 +20,7 @@ Este projeto é uma **Calculadora de Churrasco** que ajuda a determinar a quanti
 
 | Tela Principal |
 |:--------------:|
-| ![Calculadora de Churrasco](./screenshots/main-screen.png) |
+| ![Calculadora de Churrasco](/assets/tela.png) |
 
 ## 🛠️ Como Executar o Projeto
 
