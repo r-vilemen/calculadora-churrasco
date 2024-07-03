@@ -43,6 +43,9 @@ Este projeto é uma **Calculadora de Churrasco** que ajuda a determinar a quanti
 ```plaintext
 calculadora-churrasco/
 │
+├────assets
+├────────tela.png
+│
 ├── style.css              # Estilos da aplicação
 │
 │── script.js              # Lógica de cálculo
